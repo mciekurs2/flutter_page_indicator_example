@@ -1,6 +1,6 @@
 # page_view_indicator
 
-A new Flutter project.
+Demonstrates how to create simple page indicator in flutter.
 
 ## Getting Started
 
